@@ -3,6 +3,7 @@
   <h1 align="center">Platforms Starter Kit</h1>
 </a>
 
+
 <p align="center">
   The <em>all-in-one</em> starter kit <br/>
   for building multi-tenant applications.
